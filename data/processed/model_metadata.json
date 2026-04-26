@@ -1,0 +1,29 @@
+{
+  "roc_auc": 0.8089,
+  "cv_auc": 0.8876,
+  "mae": 0.0121,
+  "r2": 0.849,
+  "n_features": 19,
+  "n_training_rows": 300,
+  "features": [
+    "specialty_risk",
+    "payer_strictness",
+    "plan_type_risk",
+    "is_biologic",
+    "is_high_risk_cpt",
+    "is_surgical",
+    "is_behavioral",
+    "is_oncology",
+    "log_total_requests",
+    "volume_tier",
+    "appeal_success_rate",
+    "high_appeal_reversal",
+    "days_standard",
+    "days_expedited",
+    "slow_payer",
+    "biologic_x_strict_payer",
+    "surgical_x_ma_plan",
+    "specialty_x_payer",
+    "year_norm"
+  ]
+}

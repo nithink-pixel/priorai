@@ -1,0 +1,301 @@
+cpt_code,procedure_description,specialty,payer_name,plan_type,year,total_requests,approved,denied,denial_rate,approved_after_appeal,appeal_success_rate,avg_decision_days_standard,avg_decision_days_expedited,payer_denial_multiplier
+99213,Office Visit - Established,E&M,UnitedHealthcare,MA,2024,1990,1904,86,0.0436,83,0.9651,1.9,0.7,0.34
+99213,Office Visit - Established,E&M,Humana,MA,2024,928,901,27,0.0291,30,1.1111,2.2,0.9,0.28
+99213,Office Visit - Established,E&M,CVS/Aetna,MA,2024,624,604,20,0.0336,14,0.7,2.3,0.9,0.31
+99213,Office Visit - Established,E&M,Cigna,MA,2024,2102,2031,71,0.0341,57,0.8028,2.3,0.6,0.29
+99213,Office Visit - Established,E&M,Centene/WellCare,MA,2024,368,353,15,0.0426,16,1.0667,2.4,1.0,0.36
+99213,Office Visit - Established,E&M,Molina Healthcare,Medicaid,2024,201,192,9,0.0481,6,0.6667,3.6,1.0,0.39
+99213,Office Visit - Established,E&M,Anthem/Elevance,MA,2024,533,515,18,0.0342,15,0.8333,1.6,0.7,0.27
+99213,Office Visit - Established,E&M,Kaiser Permanente,MA,2024,772,758,14,0.0186,16,1.1429,1.1,0.5,0.18
+99213,Office Visit - Established,E&M,BCBS Plans,MA,2024,1409,1367,42,0.0304,31,0.7381,2.3,0.8,0.25
+99213,Office Visit - Established,E&M,Oscar Health,ACA,2024,104,100,4,0.0435,4,1.0,2.8,1.2,0.32
+27447,Total Knee Replacement,Orthopedic,UnitedHealthcare,MA,2024,954,898,56,0.0592,41,0.7321,2.7,0.8,0.34
+27447,Total Knee Replacement,Orthopedic,Humana,MA,2024,764,729,35,0.0471,30,0.8571,1.7,0.9,0.28
+27447,Total Knee Replacement,Orthopedic,CVS/Aetna,MA,2024,486,463,23,0.0475,23,1.0,2.8,1.0,0.31
+27447,Total Knee Replacement,Orthopedic,Cigna,MA,2024,2284,2156,128,0.0564,81,0.6328,2.0,0.6,0.29
+27447,Total Knee Replacement,Orthopedic,Centene/WellCare,MA,2024,1631,1531,100,0.0615,63,0.63,2.6,0.9,0.36
+27447,Total Knee Replacement,Orthopedic,Molina Healthcare,Medicaid,2024,3535,3270,265,0.075,246,0.9283,4.1,1.2,0.39
+27447,Total Knee Replacement,Orthopedic,Anthem/Elevance,MA,2024,1692,1604,88,0.0524,78,0.8864,2.3,0.7,0.27
+27447,Total Knee Replacement,Orthopedic,Kaiser Permanente,MA,2024,505,489,16,0.0326,13,0.8125,1.0,0.4,0.18
+27447,Total Knee Replacement,Orthopedic,BCBS Plans,MA,2024,1217,1166,51,0.0425,44,0.8627,2.3,0.6,0.25
+27447,Total Knee Replacement,Orthopedic,Oscar Health,ACA,2024,766,724,42,0.0561,41,0.9762,2.2,0.7,0.32
+27130,Total Hip Replacement,Orthopedic,UnitedHealthcare,MA,2024,415,390,25,0.0614,25,1.0,2.5,1.0,0.34
+27130,Total Hip Replacement,Orthopedic,Humana,MA,2024,600,571,29,0.0489,20,0.6897,2.5,0.8,0.28
+27130,Total Hip Replacement,Orthopedic,CVS/Aetna,MA,2024,472,451,21,0.0456,17,0.8095,3.0,1.1,0.31
+27130,Total Hip Replacement,Orthopedic,Cigna,MA,2024,740,711,29,0.0395,25,0.8621,2.1,0.7,0.29
+27130,Total Hip Replacement,Orthopedic,Centene/WellCare,MA,2024,726,679,47,0.0653,36,0.766,2.9,1.2,0.36
+27130,Total Hip Replacement,Orthopedic,Molina Healthcare,Medicaid,2024,418,393,25,0.0598,27,1.08,4.3,1.1,0.39
+27130,Total Hip Replacement,Orthopedic,Anthem/Elevance,MA,2024,109,105,4,0.0404,2,0.5,2.1,0.7,0.27
+27130,Total Hip Replacement,Orthopedic,Kaiser Permanente,MA,2024,1062,1036,26,0.0249,19,0.7308,1.6,0.4,0.18
+27130,Total Hip Replacement,Orthopedic,BCBS Plans,MA,2024,1051,1003,48,0.0458,35,0.7292,2.0,0.8,0.25
+27130,Total Hip Replacement,Orthopedic,Oscar Health,ACA,2024,269,257,12,0.0472,11,0.9167,2.4,1.0,0.32
+70553,MRI Brain w/ contrast,Radiology,UnitedHealthcare,MA,2024,2217,2072,145,0.0656,141,0.9724,2.1,0.7,0.34
+70553,MRI Brain w/ contrast,Radiology,Humana,MA,2024,15192,14386,806,0.0531,688,0.8536,2.3,0.5,0.28
+70553,MRI Brain w/ contrast,Radiology,CVS/Aetna,MA,2024,170,158,12,0.0712,7,0.5833,2.8,0.9,0.31
+70553,MRI Brain w/ contrast,Radiology,Cigna,MA,2024,1190,1105,85,0.0722,53,0.6235,2.0,0.6,0.29
+70553,MRI Brain w/ contrast,Radiology,Centene/WellCare,MA,2024,2910,2658,252,0.0867,210,0.8333,2.9,0.9,0.36
+70553,MRI Brain w/ contrast,Radiology,Molina Healthcare,Medicaid,2024,250,232,18,0.0753,18,1.0,4.2,1.3,0.39
+70553,MRI Brain w/ contrast,Radiology,Anthem/Elevance,MA,2024,248,233,15,0.0634,15,1.0,2.4,0.8,0.27
+70553,MRI Brain w/ contrast,Radiology,Kaiser Permanente,MA,2024,224,215,9,0.0413,5,0.5556,1.1,0.6,0.18
+70553,MRI Brain w/ contrast,Radiology,BCBS Plans,MA,2024,1558,1486,72,0.0468,46,0.6389,1.9,0.8,0.25
+70553,MRI Brain w/ contrast,Radiology,Oscar Health,ACA,2024,465,431,34,0.0736,22,0.6471,2.9,0.8,0.32
+93306,Echocardiogram,Cardiology,UnitedHealthcare,MA,2024,4404,4170,234,0.0533,251,1.0726,2.5,0.9,0.34
+93306,Echocardiogram,Cardiology,Humana,MA,2024,409,394,15,0.0369,12,0.8,1.8,0.6,0.28
+93306,Echocardiogram,Cardiology,CVS/Aetna,MA,2024,999,948,51,0.052,48,0.9412,2.9,0.9,0.31
+93306,Echocardiogram,Cardiology,Cigna,MA,2024,1651,1578,73,0.0445,64,0.8767,1.8,0.9,0.29
+93306,Echocardiogram,Cardiology,Centene/WellCare,MA,2024,303,285,18,0.0611,20,1.1111,3.5,1.0,0.36
+93306,Echocardiogram,Cardiology,Molina Healthcare,Medicaid,2024,1956,1859,97,0.05,108,1.1134,3.3,1.6,0.39
+93306,Echocardiogram,Cardiology,Anthem/Elevance,MA,2024,396,379,17,0.0448,13,0.7647,1.6,0.7,0.27
+93306,Echocardiogram,Cardiology,Kaiser Permanente,MA,2024,178,173,5,0.0305,4,0.8,1.4,0.4,0.18
+93306,Echocardiogram,Cardiology,BCBS Plans,MA,2024,1175,1126,49,0.0417,49,1.0,2.1,0.8,0.25
+93306,Echocardiogram,Cardiology,Oscar Health,ACA,2024,278,266,12,0.046,9,0.75,3.1,1.1,0.32
+45378,Colonoscopy,GI,UnitedHealthcare,MA,2024,2034,1974,60,0.0296,61,1.0167,2.6,1.0,0.34
+45378,Colonoscopy,GI,Humana,MA,2024,111667,108873,2794,0.025,2371,0.8486,1.9,0.6,0.28
+45378,Colonoscopy,GI,CVS/Aetna,MA,2024,612,597,15,0.0245,14,0.9333,2.2,1.0,0.31
+45378,Colonoscopy,GI,Cigna,MA,2024,1209,1185,24,0.0199,16,0.6667,2.6,0.7,0.29
+45378,Colonoscopy,GI,Centene/WellCare,MA,2024,1184,1148,36,0.0311,28,0.7778,3.1,0.8,0.36
+45378,Colonoscopy,GI,Molina Healthcare,Medicaid,2024,300,292,8,0.027,7,0.875,3.5,1.3,0.39
+45378,Colonoscopy,GI,Anthem/Elevance,MA,2024,96,94,2,0.0235,1,0.5,1.9,0.5,0.27
+45378,Colonoscopy,GI,Kaiser Permanente,MA,2024,1371,1355,16,0.0123,19,1.1875,1.6,0.5,0.18
+45378,Colonoscopy,GI,BCBS Plans,MA,2024,259,255,4,0.0179,3,0.75,1.9,0.8,0.25
+45378,Colonoscopy,GI,Oscar Health,ACA,2024,734,715,19,0.0268,15,0.7895,3.3,1.1,0.32
+27570,Manipulation under anesthesia,Orthopedic,UnitedHealthcare,MA,2024,13996,12557,1439,0.1029,879,0.6108,2.1,1.0,0.34
+27570,Manipulation under anesthesia,Orthopedic,Humana,MA,2024,3785,3505,280,0.0742,155,0.5536,1.6,0.6,0.28
+27570,Manipulation under anesthesia,Orthopedic,CVS/Aetna,MA,2024,1867,1689,178,0.0954,97,0.5449,2.5,0.9,0.31
+27570,Manipulation under anesthesia,Orthopedic,Cigna,MA,2024,2778,2553,225,0.0811,155,0.6889,2.1,0.9,0.29
+27570,Manipulation under anesthesia,Orthopedic,Centene/WellCare,MA,2024,646,577,69,0.1074,53,0.7681,2.9,1.3,0.36
+27570,Manipulation under anesthesia,Orthopedic,Molina Healthcare,Medicaid,2024,1282,1120,162,0.1267,93,0.5741,2.6,1.3,0.39
+27570,Manipulation under anesthesia,Orthopedic,Anthem/Elevance,MA,2024,1192,1080,112,0.0948,84,0.75,1.9,0.8,0.27
+27570,Manipulation under anesthesia,Orthopedic,Kaiser Permanente,MA,2024,690,652,38,0.0551,28,0.7368,1.6,0.4,0.18
+27570,Manipulation under anesthesia,Orthopedic,BCBS Plans,MA,2024,1536,1433,103,0.0675,66,0.6408,2.2,0.5,0.25
+27570,Manipulation under anesthesia,Orthopedic,Oscar Health,ACA,2024,519,463,56,0.1086,35,0.625,2.1,1.1,0.32
+90837,Psychotherapy 60 min,Behavioral,UnitedHealthcare,MA,2024,3227,3004,223,0.0692,205,0.9193,2.0,0.7,0.34
+90837,Psychotherapy 60 min,Behavioral,Humana,MA,2024,1585,1495,90,0.0572,83,0.9222,2.6,0.7,0.28
+90837,Psychotherapy 60 min,Behavioral,CVS/Aetna,MA,2024,5080,4796,284,0.0561,278,0.9789,3.0,0.9,0.31
+90837,Psychotherapy 60 min,Behavioral,Cigna,MA,2024,539,508,31,0.0592,27,0.871,1.7,1.0,0.29
+90837,Psychotherapy 60 min,Behavioral,Centene/WellCare,MA,2024,5253,4914,339,0.0647,327,0.9646,2.7,0.7,0.36
+90837,Psychotherapy 60 min,Behavioral,Molina Healthcare,Medicaid,2024,1124,1031,93,0.0831,54,0.5806,3.1,1.6,0.39
+90837,Psychotherapy 60 min,Behavioral,Anthem/Elevance,MA,2024,1232,1167,65,0.0533,49,0.7538,1.8,0.6,0.27
+90837,Psychotherapy 60 min,Behavioral,Kaiser Permanente,MA,2024,2239,2159,80,0.036,71,0.8875,1.5,0.6,0.18
+90837,Psychotherapy 60 min,Behavioral,BCBS Plans,MA,2024,1080,1036,44,0.0412,35,0.7955,1.8,0.8,0.25
+90837,Psychotherapy 60 min,Behavioral,Oscar Health,ACA,2024,373,352,21,0.0581,12,0.5714,2.1,1.1,0.32
+96365,IV infusion therapy,Infusion,UnitedHealthcare,MA,2024,408,375,33,0.0833,25,0.7576,1.8,1.0,0.34
+96365,IV infusion therapy,Infusion,Humana,MA,2024,1469,1347,122,0.0833,63,0.5164,1.6,1.0,0.28
+96365,IV infusion therapy,Infusion,CVS/Aetna,MA,2024,192,174,18,0.0949,15,0.8333,3.2,1.1,0.31
+96365,IV infusion therapy,Infusion,Cigna,MA,2024,202,187,15,0.0782,7,0.4667,2.5,0.8,0.29
+96365,IV infusion therapy,Infusion,Centene/WellCare,MA,2024,3069,2796,273,0.089,187,0.685,2.1,1.0,0.36
+96365,IV infusion therapy,Infusion,Molina Healthcare,Medicaid,2024,905,820,85,0.0947,45,0.5294,2.7,1.4,0.39
+96365,IV infusion therapy,Infusion,Anthem/Elevance,MA,2024,2045,1869,176,0.0861,112,0.6364,1.7,0.9,0.27
+96365,IV infusion therapy,Infusion,Kaiser Permanente,MA,2024,6900,6582,318,0.0462,280,0.8805,1.0,0.6,0.18
+96365,IV infusion therapy,Infusion,BCBS Plans,MA,2024,1434,1347,87,0.061,61,0.7011,2.3,0.7,0.25
+96365,IV infusion therapy,Infusion,Oscar Health,ACA,2024,1113,1010,103,0.0931,79,0.767,2.6,1.0,0.32
+J0129,Abatacept injection,Rheumatology,UnitedHealthcare,MA,2024,3123,2738,385,0.1233,207,0.5377,2.9,1.0,0.34
+J0129,Abatacept injection,Rheumatology,Humana,MA,2024,1366,1208,158,0.116,105,0.6646,1.8,0.6,0.28
+J0129,Abatacept injection,Rheumatology,CVS/Aetna,MA,2024,85,74,11,0.1335,5,0.4545,3.2,1.2,0.31
+J0129,Abatacept injection,Rheumatology,Cigna,MA,2024,583,508,75,0.129,47,0.6267,2.0,1.0,0.29
+J0129,Abatacept injection,Rheumatology,Centene/WellCare,MA,2024,373,310,63,0.1698,46,0.7302,3.6,1.2,0.36
+J0129,Abatacept injection,Rheumatology,Molina Healthcare,Medicaid,2024,1978,1643,335,0.1694,197,0.5881,4.2,1.5,0.39
+J0129,Abatacept injection,Rheumatology,Anthem/Elevance,MA,2024,4515,3929,586,0.13,287,0.4898,2.1,0.7,0.27
+J0129,Abatacept injection,Rheumatology,Kaiser Permanente,MA,2024,624,571,53,0.0863,39,0.7358,1.6,0.5,0.18
+J0129,Abatacept injection,Rheumatology,BCBS Plans,MA,2024,161,147,14,0.091,10,0.7143,2.2,0.9,0.25
+J0129,Abatacept injection,Rheumatology,Oscar Health,ACA,2024,534,452,82,0.1544,52,0.6341,3.0,1.2,0.32
+J0717,Certolizumab injection,Rheumatology,UnitedHealthcare,MA,2024,639,545,94,0.1474,43,0.4574,2.9,0.9,0.34
+J0717,Certolizumab injection,Rheumatology,Humana,MA,2024,2315,2054,261,0.1132,169,0.6475,2.2,0.7,0.28
+J0717,Certolizumab injection,Rheumatology,CVS/Aetna,MA,2024,1633,1409,224,0.1372,153,0.683,2.6,1.1,0.31
+J0717,Certolizumab injection,Rheumatology,Cigna,MA,2024,446,389,57,0.1296,34,0.5965,2.7,0.8,0.29
+J0717,Certolizumab injection,Rheumatology,Centene/WellCare,MA,2024,2379,1980,399,0.1681,194,0.4862,2.3,0.7,0.36
+J0717,Certolizumab injection,Rheumatology,Molina Healthcare,Medicaid,2024,5666,4738,928,0.1639,577,0.6218,3.2,1.2,0.39
+J0717,Certolizumab injection,Rheumatology,Anthem/Elevance,MA,2024,793,699,94,0.1193,64,0.6809,1.9,0.8,0.27
+J0717,Certolizumab injection,Rheumatology,Kaiser Permanente,MA,2024,2594,2367,227,0.0878,170,0.7489,1.1,0.6,0.18
+J0717,Certolizumab injection,Rheumatology,BCBS Plans,MA,2024,142,127,15,0.1087,11,0.7333,1.9,0.6,0.25
+J0717,Certolizumab injection,Rheumatology,Oscar Health,ACA,2024,1025,875,150,0.1464,74,0.4933,2.0,0.7,0.32
+J0135,Adalimumab injection,Rheumatology,UnitedHealthcare,MA,2024,1702,1498,204,0.1199,120,0.5882,2.8,0.8,0.34
+J0135,Adalimumab injection,Rheumatology,Humana,MA,2024,355,315,40,0.1147,20,0.5,1.7,0.6,0.28
+J0135,Adalimumab injection,Rheumatology,CVS/Aetna,MA,2024,580,517,63,0.1092,30,0.4762,2.0,0.9,0.31
+J0135,Adalimumab injection,Rheumatology,Cigna,MA,2024,423,380,43,0.1031,25,0.5814,2.2,0.9,0.29
+J0135,Adalimumab injection,Rheumatology,Centene/WellCare,MA,2024,473,400,73,0.1561,59,0.8082,2.2,0.9,0.36
+J0135,Adalimumab injection,Rheumatology,Molina Healthcare,Medicaid,2024,1417,1182,235,0.1661,175,0.7447,2.8,1.0,0.39
+J0135,Adalimumab injection,Rheumatology,Anthem/Elevance,MA,2024,788,703,85,0.109,50,0.5882,1.9,0.8,0.27
+J0135,Adalimumab injection,Rheumatology,Kaiser Permanente,MA,2024,69,65,4,0.0604,2,0.5,1.5,0.6,0.18
+J0135,Adalimumab injection,Rheumatology,BCBS Plans,MA,2024,44119,40325,3794,0.086,2388,0.6294,1.9,0.6,0.25
+J0135,Adalimumab injection,Rheumatology,Oscar Health,ACA,2024,4202,3714,488,0.1162,293,0.6004,1.9,0.9,0.32
+20610,Joint injection,Orthopedic,UnitedHealthcare,MA,2024,504,488,16,0.0331,17,1.0625,2.4,0.9,0.34
+20610,Joint injection,Orthopedic,Humana,MA,2024,299,289,10,0.0335,9,0.9,1.6,0.8,0.28
+20610,Joint injection,Orthopedic,CVS/Aetna,MA,2024,6820,6593,227,0.0334,160,0.7048,2.2,0.8,0.31
+20610,Joint injection,Orthopedic,Cigna,MA,2024,2093,2024,69,0.0333,65,0.942,2.0,1.0,0.29
+20610,Joint injection,Orthopedic,Centene/WellCare,MA,2024,204,197,7,0.0349,5,0.7143,2.5,0.8,0.36
+20610,Joint injection,Orthopedic,Molina Healthcare,Medicaid,2024,2155,2072,83,0.0389,65,0.7831,2.8,1.5,0.39
+20610,Joint injection,Orthopedic,Anthem/Elevance,MA,2024,1162,1129,33,0.0289,38,1.1515,1.6,0.7,0.27
+20610,Joint injection,Orthopedic,Kaiser Permanente,MA,2024,404,395,9,0.0226,9,1.0,1.5,0.4,0.18
+20610,Joint injection,Orthopedic,BCBS Plans,MA,2024,2000,1938,62,0.031,58,0.9355,1.9,0.6,0.25
+20610,Joint injection,Orthopedic,Oscar Health,ACA,2024,339,327,12,0.038,8,0.6667,2.4,0.9,0.32
+64483,Epidural steroid injection,Pain Mgmt,UnitedHealthcare,MA,2024,155,144,11,0.0722,9,0.8182,2.0,0.9,0.34
+64483,Epidural steroid injection,Pain Mgmt,Humana,MA,2024,1161,1092,69,0.0602,53,0.7681,2.1,0.6,0.28
+64483,Epidural steroid injection,Pain Mgmt,CVS/Aetna,MA,2024,390,365,25,0.0647,25,1.0,2.3,1.1,0.31
+64483,Epidural steroid injection,Pain Mgmt,Cigna,MA,2024,691,647,44,0.0645,38,0.8636,2.5,0.8,0.29
+64483,Epidural steroid injection,Pain Mgmt,Centene/WellCare,MA,2024,56,52,4,0.0825,3,0.75,3.4,1.3,0.36
+64483,Epidural steroid injection,Pain Mgmt,Molina Healthcare,Medicaid,2024,421,387,34,0.0831,30,0.8824,4.2,1.0,0.39
+64483,Epidural steroid injection,Pain Mgmt,Anthem/Elevance,MA,2024,1216,1136,80,0.0662,76,0.95,1.6,0.8,0.27
+64483,Epidural steroid injection,Pain Mgmt,Kaiser Permanente,MA,2024,909,874,35,0.0393,22,0.6286,1.1,0.6,0.18
+64483,Epidural steroid injection,Pain Mgmt,BCBS Plans,MA,2024,1552,1463,89,0.0575,86,0.9663,1.8,0.8,0.25
+64483,Epidural steroid injection,Pain Mgmt,Oscar Health,ACA,2024,13233,12236,997,0.0754,729,0.7312,2.6,0.8,0.32
+43239,Upper GI endoscopy w/ biopsy,GI,UnitedHealthcare,MA,2024,1121,1076,45,0.0406,50,1.1111,2.2,0.9,0.34
+43239,Upper GI endoscopy w/ biopsy,GI,Humana,MA,2024,8198,7864,334,0.0408,323,0.9671,1.7,1.0,0.28
+43239,Upper GI endoscopy w/ biopsy,GI,CVS/Aetna,MA,2024,185,179,6,0.0359,6,1.0,2.7,0.9,0.31
+43239,Upper GI endoscopy w/ biopsy,GI,Cigna,MA,2024,4326,4144,182,0.0422,192,1.0549,1.8,0.7,0.29
+43239,Upper GI endoscopy w/ biopsy,GI,Centene/WellCare,MA,2024,2970,2851,119,0.0403,111,0.9328,3.3,1.3,0.36
+43239,Upper GI endoscopy w/ biopsy,GI,Molina Healthcare,Medicaid,2024,392,374,18,0.0483,19,1.0556,2.7,1.5,0.39
+43239,Upper GI endoscopy w/ biopsy,GI,Anthem/Elevance,MA,2024,793,763,30,0.0382,21,0.7,1.7,0.8,0.27
+43239,Upper GI endoscopy w/ biopsy,GI,Kaiser Permanente,MA,2024,338,330,8,0.0249,7,0.875,1.5,0.5,0.18
+43239,Upper GI endoscopy w/ biopsy,GI,BCBS Plans,MA,2024,433,421,12,0.0294,13,1.0833,2.0,0.6,0.25
+43239,Upper GI endoscopy w/ biopsy,GI,Oscar Health,ACA,2024,246,236,10,0.0411,11,1.1,2.1,1.0,0.32
+71046,Chest X-Ray 2 views,Radiology,UnitedHealthcare,MA,2024,20638,20278,360,0.0175,422,1.1722,2.9,0.9,0.34
+71046,Chest X-Ray 2 views,Radiology,Humana,MA,2024,1280,1258,22,0.0178,26,1.1818,2.3,0.6,0.28
+71046,Chest X-Ray 2 views,Radiology,CVS/Aetna,MA,2024,10492,10302,190,0.0182,208,1.0947,3.1,1.2,0.31
+71046,Chest X-Ray 2 views,Radiology,Cigna,MA,2024,5511,5417,94,0.0171,69,0.734,2.8,1.0,0.29
+71046,Chest X-Ray 2 views,Radiology,Centene/WellCare,MA,2024,1172,1146,26,0.0222,23,0.8846,2.2,0.9,0.36
+71046,Chest X-Ray 2 views,Radiology,Molina Healthcare,Medicaid,2024,4076,3972,104,0.0255,70,0.6731,3.1,1.2,0.39
+71046,Chest X-Ray 2 views,Radiology,Anthem/Elevance,MA,2024,2944,2899,45,0.0155,39,0.8667,2.2,0.7,0.27
+71046,Chest X-Ray 2 views,Radiology,Kaiser Permanente,MA,2024,1197,1186,11,0.0099,10,0.9091,1.1,0.4,0.18
+71046,Chest X-Ray 2 views,Radiology,BCBS Plans,MA,2024,43,43,0,0.0169,0,0.0,2.0,0.7,0.25
+71046,Chest X-Ray 2 views,Radiology,Oscar Health,ACA,2024,1027,1011,16,0.0164,16,1.0,2.2,1.2,0.32
+70450,CT Head w/o contrast,Radiology,UnitedHealthcare,MA,2024,794,754,40,0.0506,44,1.1,2.3,0.9,0.34
+70450,CT Head w/o contrast,Radiology,Humana,MA,2024,290,278,12,0.0414,11,0.9167,1.8,0.9,0.28
+70450,CT Head w/o contrast,Radiology,CVS/Aetna,MA,2024,550,526,24,0.0454,20,0.8333,2.6,0.7,0.31
+70450,CT Head w/o contrast,Radiology,Cigna,MA,2024,568,538,30,0.0534,24,0.8,2.2,0.8,0.29
+70450,CT Head w/o contrast,Radiology,Centene/WellCare,MA,2024,4891,4623,268,0.0549,184,0.6866,3.4,1.3,0.36
+70450,CT Head w/o contrast,Radiology,Molina Healthcare,Medicaid,2024,91,86,5,0.0638,3,0.6,3.7,1.2,0.39
+70450,CT Head w/o contrast,Radiology,Anthem/Elevance,MA,2024,3370,3238,132,0.0394,93,0.7045,1.7,0.8,0.27
+70450,CT Head w/o contrast,Radiology,Kaiser Permanente,MA,2024,5043,4911,132,0.0262,85,0.6439,1.5,0.4,0.18
+70450,CT Head w/o contrast,Radiology,BCBS Plans,MA,2024,253,244,9,0.0374,6,0.6667,2.1,0.8,0.25
+70450,CT Head w/o contrast,Radiology,Oscar Health,ACA,2024,2580,2426,154,0.0598,122,0.7922,2.9,0.8,0.32
+73721,MRI Knee,Radiology,UnitedHealthcare,MA,2024,2234,2105,129,0.0581,80,0.6202,1.9,0.6,0.34
+73721,MRI Knee,Radiology,Humana,MA,2024,756,718,38,0.0506,33,0.8684,2.0,0.9,0.28
+73721,MRI Knee,Radiology,CVS/Aetna,MA,2024,585,552,33,0.0575,25,0.7576,2.7,0.8,0.31
+73721,MRI Knee,Radiology,Cigna,MA,2024,3861,3629,232,0.0602,182,0.7845,2.3,0.8,0.29
+73721,MRI Knee,Radiology,Centene/WellCare,MA,2024,1412,1303,109,0.0777,70,0.6422,3.4,1.0,0.36
+73721,MRI Knee,Radiology,Molina Healthcare,Medicaid,2024,976,891,85,0.0872,83,0.9765,3.3,0.9,0.39
+73721,MRI Knee,Radiology,Anthem/Elevance,MA,2024,1586,1497,89,0.0562,63,0.7079,1.6,0.9,0.27
+73721,MRI Knee,Radiology,Kaiser Permanente,MA,2024,140,135,5,0.0412,4,0.8,1.1,0.4,0.18
+73721,MRI Knee,Radiology,BCBS Plans,MA,2024,1387,1323,64,0.0466,54,0.8438,2.0,0.8,0.25
+73721,MRI Knee,Radiology,Oscar Health,ACA,2024,338,319,19,0.0584,11,0.5789,2.1,1.2,0.32
+27245,Surgical repair femoral fracture,Orthopedic,UnitedHealthcare,MA,2024,1491,1418,73,0.049,73,1.0,1.9,1.0,0.34
+27245,Surgical repair femoral fracture,Orthopedic,Humana,MA,2024,3566,3430,136,0.0382,115,0.8456,2.1,0.6,0.28
+27245,Surgical repair femoral fracture,Orthopedic,CVS/Aetna,MA,2024,2040,1963,77,0.038,74,0.961,2.2,0.9,0.31
+27245,Surgical repair femoral fracture,Orthopedic,Cigna,MA,2024,459,442,17,0.038,14,0.8235,2.5,0.7,0.29
+27245,Surgical repair femoral fracture,Orthopedic,Centene/WellCare,MA,2024,350,332,18,0.0529,20,1.1111,3.2,0.9,0.36
+27245,Surgical repair femoral fracture,Orthopedic,Molina Healthcare,Medicaid,2024,25818,24607,1211,0.0469,944,0.7795,3.6,0.9,0.39
+27245,Surgical repair femoral fracture,Orthopedic,Anthem/Elevance,MA,2024,23673,22823,850,0.0359,899,1.0576,1.6,0.5,0.27
+27245,Surgical repair femoral fracture,Orthopedic,Kaiser Permanente,MA,2024,977,951,26,0.0269,23,0.8846,1.5,0.5,0.18
+27245,Surgical repair femoral fracture,Orthopedic,BCBS Plans,MA,2024,2563,2466,97,0.0381,98,1.0103,1.6,0.7,0.25
+27245,Surgical repair femoral fracture,Orthopedic,Oscar Health,ACA,2024,558,535,23,0.0429,15,0.6522,3.2,0.8,0.32
+43270,Esophageal dilation,GI,UnitedHealthcare,MA,2024,1002,938,64,0.0647,53,0.8281,2.8,1.0,0.34
+43270,Esophageal dilation,GI,Humana,MA,2024,2309,2161,148,0.0642,132,0.8919,2.3,0.9,0.28
+43270,Esophageal dilation,GI,CVS/Aetna,MA,2024,1008,948,60,0.0597,63,1.05,3.1,0.7,0.31
+43270,Esophageal dilation,GI,Cigna,MA,2024,149,140,9,0.0647,9,1.0,1.8,0.8,0.29
+43270,Esophageal dilation,GI,Centene/WellCare,MA,2024,299,274,25,0.0852,26,1.04,3.6,1.0,0.36
+43270,Esophageal dilation,GI,Molina Healthcare,Medicaid,2024,3880,3528,352,0.0908,348,0.9886,3.1,1.5,0.39
+43270,Esophageal dilation,GI,Anthem/Elevance,MA,2024,1230,1166,64,0.0521,40,0.625,1.5,0.8,0.27
+43270,Esophageal dilation,GI,Kaiser Permanente,MA,2024,629,607,22,0.036,20,0.9091,1.0,0.4,0.18
+43270,Esophageal dilation,GI,BCBS Plans,MA,2024,6225,5916,309,0.0496,272,0.8803,2.3,0.7,0.25
+43270,Esophageal dilation,GI,Oscar Health,ACA,2024,1388,1303,85,0.0618,49,0.5765,3.2,0.7,0.32
+95810,Polysomnography,Sleep,UnitedHealthcare,MA,2024,1210,1089,121,0.1,108,0.8926,2.9,0.8,0.34
+95810,Polysomnography,Sleep,Humana,MA,2024,3938,3629,309,0.0786,221,0.7152,2.1,0.8,0.28
+95810,Polysomnography,Sleep,CVS/Aetna,MA,2024,642,592,50,0.0787,43,0.86,2.2,0.7,0.31
+95810,Polysomnography,Sleep,Cigna,MA,2024,6273,5821,452,0.0721,299,0.6615,2.0,0.7,0.29
+95810,Polysomnography,Sleep,Centene/WellCare,MA,2024,1051,957,94,0.0904,79,0.8404,2.4,1.3,0.36
+95810,Polysomnography,Sleep,Molina Healthcare,Medicaid,2024,1452,1293,159,0.1101,91,0.5723,3.3,1.5,0.39
+95810,Polysomnography,Sleep,Anthem/Elevance,MA,2024,1033,959,74,0.0726,45,0.6081,2.5,0.6,0.27
+95810,Polysomnography,Sleep,Kaiser Permanente,MA,2024,2464,2334,130,0.053,107,0.8231,1.4,0.5,0.18
+95810,Polysomnography,Sleep,BCBS Plans,MA,2024,510,480,30,0.0595,18,0.6,2.2,0.6,0.25
+95810,Polysomnography,Sleep,Oscar Health,ACA,2024,579,538,41,0.0722,39,0.9512,3.2,1.2,0.32
+97110,Therapeutic exercise,PT,UnitedHealthcare,MA,2024,6030,5835,195,0.0324,143,0.7333,2.7,0.7,0.34
+97110,Therapeutic exercise,PT,Humana,MA,2024,552,540,12,0.0231,11,0.9167,2.2,0.8,0.28
+97110,Therapeutic exercise,PT,CVS/Aetna,MA,2024,525,509,16,0.0312,18,1.125,3.0,1.1,0.31
+97110,Therapeutic exercise,PT,Cigna,MA,2024,688,670,18,0.0273,17,0.9444,1.7,0.8,0.29
+97110,Therapeutic exercise,PT,Centene/WellCare,MA,2024,209,202,7,0.0346,6,0.8571,2.2,0.9,0.36
+97110,Therapeutic exercise,PT,Molina Healthcare,Medicaid,2024,456,440,16,0.037,11,0.6875,4.1,1.2,0.39
+97110,Therapeutic exercise,PT,Anthem/Elevance,MA,2024,22749,22143,606,0.0267,512,0.8449,2.2,0.7,0.27
+97110,Therapeutic exercise,PT,Kaiser Permanente,MA,2024,579,571,8,0.0151,9,1.125,1.5,0.5,0.18
+97110,Therapeutic exercise,PT,BCBS Plans,MA,2024,2935,2866,69,0.0238,71,1.029,2.0,0.8,0.25
+97110,Therapeutic exercise,PT,Oscar Health,ACA,2024,2015,1963,52,0.0259,59,1.1346,3.2,0.7,0.32
+97530,Therapeutic activities,OT,UnitedHealthcare,MA,2024,897,869,28,0.0323,29,1.0357,1.9,1.0,0.34
+97530,Therapeutic activities,OT,Humana,MA,2024,1307,1267,40,0.0308,36,0.9,1.5,0.7,0.28
+97530,Therapeutic activities,OT,CVS/Aetna,MA,2024,1379,1335,44,0.0322,34,0.7727,2.7,0.9,0.31
+97530,Therapeutic activities,OT,Cigna,MA,2024,1159,1123,36,0.0314,25,0.6944,2.5,0.8,0.29
+97530,Therapeutic activities,OT,Centene/WellCare,MA,2024,978,942,36,0.0374,41,1.1389,2.2,1.3,0.36
+97530,Therapeutic activities,OT,Molina Healthcare,Medicaid,2024,1532,1469,63,0.0412,42,0.6667,3.0,1.4,0.39
+97530,Therapeutic activities,OT,Anthem/Elevance,MA,2024,1286,1253,33,0.0258,32,0.9697,1.5,0.9,0.27
+97530,Therapeutic activities,OT,Kaiser Permanente,MA,2024,473,464,9,0.0206,10,1.1111,1.5,0.4,0.18
+97530,Therapeutic activities,OT,BCBS Plans,MA,2024,7176,6987,189,0.0264,168,0.8889,1.6,0.9,0.25
+97530,Therapeutic activities,OT,Oscar Health,ACA,2024,1013,982,31,0.0313,27,0.871,2.2,1.1,0.32
+J9355,Trastuzumab injection,Oncology,UnitedHealthcare,MA,2024,321,288,33,0.1041,25,0.7576,2.5,0.7,0.34
+J9355,Trastuzumab injection,Oncology,Humana,MA,2024,2565,2280,285,0.1113,159,0.5579,2.0,1.0,0.28
+J9355,Trastuzumab injection,Oncology,CVS/Aetna,MA,2024,10056,8999,1057,0.1052,648,0.6131,3.2,0.9,0.31
+J9355,Trastuzumab injection,Oncology,Cigna,MA,2024,303,269,34,0.1135,20,0.5882,1.9,0.6,0.29
+J9355,Trastuzumab injection,Oncology,Centene/WellCare,MA,2024,244,210,34,0.1398,23,0.6765,3.6,0.8,0.36
+J9355,Trastuzumab injection,Oncology,Molina Healthcare,Medicaid,2024,6201,5261,940,0.1516,778,0.8277,3.9,1.5,0.39
+J9355,Trastuzumab injection,Oncology,Anthem/Elevance,MA,2024,2371,2172,199,0.084,101,0.5075,2.4,0.8,0.27
+J9355,Trastuzumab injection,Oncology,Kaiser Permanente,MA,2024,5404,5034,370,0.0686,259,0.7,1.0,0.4,0.18
+J9355,Trastuzumab injection,Oncology,BCBS Plans,MA,2024,487,449,38,0.0796,26,0.6842,1.4,0.7,0.25
+J9355,Trastuzumab injection,Oncology,Oscar Health,ACA,2024,9519,8527,992,0.1042,830,0.8367,2.4,0.9,0.32
+J9306,Pembrolizumab injection,Oncology,UnitedHealthcare,MA,2024,637,553,84,0.1331,49,0.5833,2.6,1.0,0.34
+J9306,Pembrolizumab injection,Oncology,Humana,MA,2024,59,53,6,0.1153,2,0.3333,2.1,0.6,0.28
+J9306,Pembrolizumab injection,Oncology,CVS/Aetna,MA,2024,1091,958,133,0.122,99,0.7444,2.6,0.6,0.31
+J9306,Pembrolizumab injection,Oncology,Cigna,MA,2024,273,245,28,0.1045,18,0.6429,1.7,0.7,0.29
+J9306,Pembrolizumab injection,Oncology,Centene/WellCare,MA,2024,329,284,45,0.1396,33,0.7333,3.3,0.9,0.36
+J9306,Pembrolizumab injection,Oncology,Molina Healthcare,Medicaid,2024,782,678,104,0.1334,53,0.5096,3.7,1.4,0.39
+J9306,Pembrolizumab injection,Oncology,Anthem/Elevance,MA,2024,1177,1049,128,0.109,104,0.8125,2.2,0.9,0.27
+J9306,Pembrolizumab injection,Oncology,Kaiser Permanente,MA,2024,504,472,32,0.0651,25,0.7812,1.0,0.6,0.18
+J9306,Pembrolizumab injection,Oncology,BCBS Plans,MA,2024,5328,4830,498,0.0936,362,0.7269,1.9,0.8,0.25
+J9306,Pembrolizumab injection,Oncology,Oscar Health,ACA,2024,1390,1243,147,0.1063,72,0.4898,2.3,0.8,0.32
+0202T,Insertion spinal cord stimulator,Pain Mgmt,UnitedHealthcare,MA,2024,746,610,136,0.1826,68,0.5,1.9,1.0,0.34
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Humana,MA,2024,1824,1573,251,0.1379,140,0.5578,2.2,0.9,0.28
+0202T,Insertion spinal cord stimulator,Pain Mgmt,CVS/Aetna,MA,2024,1147,995,152,0.1326,94,0.6184,1.9,0.7,0.31
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Cigna,MA,2024,1266,1106,160,0.1264,87,0.5437,2.6,0.9,0.29
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Centene/WellCare,MA,2024,614,515,99,0.1614,51,0.5152,3.6,0.8,0.36
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Molina Healthcare,Medicaid,2024,7250,5775,1475,0.2035,864,0.5858,3.3,1.4,0.39
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Anthem/Elevance,MA,2024,4001,3433,568,0.1422,303,0.5335,1.7,0.8,0.27
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Kaiser Permanente,MA,2024,1047,948,99,0.0951,45,0.4545,1.4,0.5,0.18
+0202T,Insertion spinal cord stimulator,Pain Mgmt,BCBS Plans,MA,2024,517,453,64,0.1251,44,0.6875,1.5,0.6,0.25
+0202T,Insertion spinal cord stimulator,Pain Mgmt,Oscar Health,ACA,2024,1763,1461,302,0.1717,136,0.4503,3.2,1.0,0.32
+43644,Bariatric surgery laparoscopic,Surgery,UnitedHealthcare,MA,2024,2105,1739,366,0.1739,188,0.5137,2.1,0.9,0.34
+43644,Bariatric surgery laparoscopic,Surgery,Humana,MA,2024,702,611,91,0.1309,43,0.4725,2.6,0.6,0.28
+43644,Bariatric surgery laparoscopic,Surgery,CVS/Aetna,MA,2024,231,191,40,0.1744,15,0.375,3.2,0.9,0.31
+43644,Bariatric surgery laparoscopic,Surgery,Cigna,MA,2024,4416,3803,613,0.1389,232,0.3785,1.8,0.8,0.29
+43644,Bariatric surgery laparoscopic,Surgery,Centene/WellCare,MA,2024,3624,2960,664,0.1833,287,0.4322,3.0,1.2,0.36
+43644,Bariatric surgery laparoscopic,Surgery,Molina Healthcare,Medicaid,2024,606,496,110,0.1825,44,0.4,2.5,1.4,0.39
+43644,Bariatric surgery laparoscopic,Surgery,Anthem/Elevance,MA,2024,745,630,115,0.1549,69,0.6,2.1,0.9,0.27
+43644,Bariatric surgery laparoscopic,Surgery,Kaiser Permanente,MA,2024,13254,12123,1131,0.0853,442,0.3908,1.2,0.4,0.18
+43644,Bariatric surgery laparoscopic,Surgery,BCBS Plans,MA,2024,2625,2331,294,0.112,115,0.3912,1.8,0.9,0.25
+43644,Bariatric surgery laparoscopic,Surgery,Oscar Health,ACA,2024,1167,984,183,0.1572,93,0.5082,2.0,0.8,0.32
+33249,ICD insertion,Cardiology,UnitedHealthcare,MA,2024,3293,2973,320,0.0973,251,0.7844,2.3,0.9,0.34
+33249,ICD insertion,Cardiology,Humana,MA,2024,1662,1542,120,0.0724,67,0.5583,1.9,0.9,0.28
+33249,ICD insertion,Cardiology,CVS/Aetna,MA,2024,2287,2053,234,0.1026,138,0.5897,2.8,0.9,0.31
+33249,ICD insertion,Cardiology,Cigna,MA,2024,309,281,28,0.0934,17,0.6071,2.4,1.0,0.29
+33249,ICD insertion,Cardiology,Centene/WellCare,MA,2024,1313,1177,136,0.1043,113,0.8309,3.4,1.1,0.36
+33249,ICD insertion,Cardiology,Molina Healthcare,Medicaid,2024,1699,1534,165,0.0972,161,0.9758,3.8,1.4,0.39
+33249,ICD insertion,Cardiology,Anthem/Elevance,MA,2024,2360,2182,178,0.0758,151,0.8483,1.6,0.8,0.27
+33249,ICD insertion,Cardiology,Kaiser Permanente,MA,2024,278,262,16,0.06,9,0.5625,1.7,0.5,0.18
+33249,ICD insertion,Cardiology,BCBS Plans,MA,2024,1612,1493,119,0.074,106,0.8908,2.3,0.6,0.25
+33249,ICD insertion,Cardiology,Oscar Health,ACA,2024,1819,1659,160,0.088,137,0.8562,3.1,1.1,0.32
+92928,Coronary artery stent,Cardiology,UnitedHealthcare,MA,2024,767,705,62,0.0819,40,0.6452,2.4,0.6,0.34
+92928,Coronary artery stent,Cardiology,Humana,MA,2024,5714,5381,333,0.0584,257,0.7718,2.0,0.8,0.28
+92928,Coronary artery stent,Cardiology,CVS/Aetna,MA,2024,333,313,20,0.0628,15,0.75,2.2,0.7,0.31
+92928,Coronary artery stent,Cardiology,Cigna,MA,2024,82,77,5,0.0658,4,0.8,2.3,0.8,0.29
+92928,Coronary artery stent,Cardiology,Centene/WellCare,MA,2024,3562,3279,283,0.0797,234,0.8269,2.1,0.9,0.36
+92928,Coronary artery stent,Cardiology,Molina Healthcare,Medicaid,2024,742,681,61,0.0827,48,0.7869,3.6,1.3,0.39
+92928,Coronary artery stent,Cardiology,Anthem/Elevance,MA,2024,5774,5399,375,0.065,356,0.9493,2.5,0.5,0.27
+92928,Coronary artery stent,Cardiology,Kaiser Permanente,MA,2024,2157,2080,77,0.036,45,0.5844,1.4,0.6,0.18
+92928,Coronary artery stent,Cardiology,BCBS Plans,MA,2024,1242,1183,59,0.0477,62,1.0508,1.7,0.5,0.25
+92928,Coronary artery stent,Cardiology,Oscar Health,ACA,2024,1017,946,71,0.0701,50,0.7042,2.3,0.8,0.32
+43282,Paraesophageal hernia repair,Surgery,UnitedHealthcare,MA,2024,1360,1217,143,0.1058,111,0.7762,2.6,0.7,0.34
+43282,Paraesophageal hernia repair,Surgery,Humana,MA,2024,5827,5303,524,0.09,295,0.563,1.7,0.8,0.28
+43282,Paraesophageal hernia repair,Surgery,CVS/Aetna,MA,2024,1244,1109,135,0.1087,75,0.5556,2.6,0.8,0.31
+43282,Paraesophageal hernia repair,Surgery,Cigna,MA,2024,221,197,24,0.109,17,0.7083,2.6,0.8,0.29
+43282,Paraesophageal hernia repair,Surgery,Centene/WellCare,MA,2024,1274,1103,171,0.1349,132,0.7719,3.4,1.3,0.36
+43282,Paraesophageal hernia repair,Surgery,Molina Healthcare,Medicaid,2024,655,578,77,0.1182,46,0.5974,3.6,1.2,0.39
+43282,Paraesophageal hernia repair,Surgery,Anthem/Elevance,MA,2024,246,223,23,0.0966,14,0.6087,2.3,0.7,0.27
+43282,Paraesophageal hernia repair,Surgery,Kaiser Permanente,MA,2024,477,448,29,0.0624,16,0.5517,1.4,0.5,0.18
+43282,Paraesophageal hernia repair,Surgery,BCBS Plans,MA,2024,263,240,23,0.0884,20,0.8696,1.6,0.5,0.25
+43282,Paraesophageal hernia repair,Surgery,Oscar Health,ACA,2024,1590,1447,143,0.0905,113,0.7902,2.8,1.0,0.32
