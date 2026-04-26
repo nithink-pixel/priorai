@@ -13,7 +13,7 @@ import plotly.express as px
 from pathlib import Path
 import sys
 
-sys.path.append(str(Path(__file__).parents[1]))
+sys.path.append(str(Path(__file__).parent))
 from src.features.feature_engineering import (
     SPECIALTY_RISK, PAYER_STRICTNESS, engineer_features
 )
